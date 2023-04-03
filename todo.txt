@@ -1,0 +1,1 @@
+- Backend cần chức năng gì thì ngoài FontEnd phải lấy dữ liệu cho phần đó cho phần quản trị
